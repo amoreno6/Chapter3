@@ -1,9 +1,16 @@
+/** Class: Airplane.java
+*@author Adrian Moreno
+* Course: ITEC 2150
+* Written: 10/4/2022
+*
+* This class – Extended from movement and flight classes, details attributes of a bird
+*//
 package Flight;
 
 public class Bird 
 {
     private String type;
-    //no argument constructor
+ 
 
     public Bird(String type) 
     {
