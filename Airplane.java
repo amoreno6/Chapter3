@@ -19,7 +19,7 @@ public class Airplane
         this.model = model;
         this.year = year;
     }
-    //getters and setters new variables
+    //getters and setters fornnew variables
     public String getModel() 
     {
         return model;
@@ -40,7 +40,7 @@ public class Airplane
         this.year = year;
     }
   
-    //implements Fly method amd Movement method
+    //implements Fly method amd Movement methods
     public String fly()
     {
         return("I'm on an airplane that relies on an engine to fly.");
@@ -56,6 +56,6 @@ public class Airplane
     
     public String toString()
     {
-        return ("Airplane [model= " + model + ", year = " + year + " ]:");
+        return ("Airplane [Model= " + model + ", Year = " + year + " ]:");
     }
 }
