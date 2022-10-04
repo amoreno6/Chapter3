@@ -19,7 +19,7 @@ public class Airplane
         this.model = model;
         this.year = year;
     }
-    //getters and setters fornnew variables
+    //getters and setters for new variables
     public String getModel() 
     {
         return model;
